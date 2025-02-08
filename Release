@@ -1,0 +1,8 @@
+Label: huamidev
+Origin: huamidev
+Codename: huamidev
+Description: huamidev opens the repository for sharing
+Version: 1.0
+Suite: stable
+Components: main
+Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
