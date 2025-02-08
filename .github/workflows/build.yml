@@ -3,7 +3,7 @@ name: "refresh"
 on:
   workflow_run:
     workflows: ["pages-build-deployment"]
-    types: 
+    types: 
       - completed
 
 jobs:
