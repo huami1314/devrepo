@@ -1,11 +1,10 @@
 name: "refresh"
 
 on:
-  push:
-    branches:
-      - main
-    paths:
-      - 'debs/**'
+  workflow_run:
+    workflows: ["pages-build-deployment"]
+    types: 
+      - completed
 
 jobs:
   build:
