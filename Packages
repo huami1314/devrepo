@@ -214,3 +214,57 @@ Description: 仅供学习交流，请在 24 小时内自觉删除。
 Author: huami
 Name: DYYY
 
+Package: com.huami.wcenhance
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 168
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.huami.wcenhance_1.0_iphoneos-arm64e.deb
+Size: 4504
+MD5sum: 50b77b178cf1ae3116bb0f2c833ec73f
+SHA1: 8c0ec04cbb68135749f1c6c9eacb4f440335900d
+SHA256: 0b5e0fc39875587bb701acb084f7dc54821ebf157d7c265936605b1be60bcbcb
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/huami1314
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Name: WCEnhance
+
+Package: com.huami.wcenhance
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 168
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.huami.wcenhance_1.0_iphoneos-arm64.deb
+Size: 4564
+MD5sum: 12e606b9ae04342db2b3c2794ca3cc9b
+SHA1: 4fe5311cbbaf53863cad3139a5498adb912e85e0
+SHA256: c90554ab4ced4d15d8ca211e7ea27de5469b9de0b9bbd7e8a89deea093e2bcd6
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/huami1314
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Name: WCEnhance
+
+Package: com.huami.wcenhance
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: huami
+Installed-Size: 168
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.huami.wcenhance_1.0_iphoneos-arm.deb
+Size: 4502
+MD5sum: 6aea86c3617926e2aae65cdb68b146a8
+SHA1: e52986dad59f5e115eef353b4e8ccc4de14c51d6
+SHA256: 8428c639004bfd280b774e2b5efe779be8d69a84dcd084bd41989174849e8499
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/huami1314
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Name: WCEnhance
+
