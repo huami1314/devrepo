@@ -670,3 +670,51 @@ Description: 为微信聊天界面标题添加头像
 Author: huami
 Name: WCNicknameAvatarStyle
 
+Package: com.huami.wcnicknameavatarstyle
+Version: 1.0-9
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 304
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.huami.wcnicknameavatarstyle_1.0-9_iphoneos-arm64.deb
+Size: 46606
+MD5sum: a2f680c24859121f14ee5e3f78a664b1
+SHA1: 79b9e3d711505ba974b3e3450c982155226cf487
+SHA256: eeae818660c68f72d3bb5c990a10e3a20335c285cb6fcd33ac71ac635ee6e190
+Section: Tweaks
+Description: 为微信聊天界面标题添加头像
+Author: huami
+Name: WCNicknameAvatarStyle
+
+Package: com.huami.wcnicknameavatarstyle
+Version: 1.0-9
+Architecture: iphoneos-arm
+Maintainer: huami
+Installed-Size: 304
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.huami.wcnicknameavatarstyle_1.0-9_iphoneos-arm.deb
+Size: 46514
+MD5sum: 22ba41ea395531f011d5863cf29c9ed1
+SHA1: f858186a97b66cc12dc39f5ae6cf0d70c70f6ecb
+SHA256: 5a4992431255fa4f118ce840bd962fb8f07afa5f78add83e99a2a4309ada7401
+Section: Tweaks
+Description: 为微信聊天界面标题添加头像
+Author: huami
+Name: WCNicknameAvatarStyle
+
+Package: com.huami.wcnicknameavatarstyle
+Version: 1.0-9
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 304
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.huami.wcnicknameavatarstyle_1.0-9_iphoneos-arm64e.deb
+Size: 46516
+MD5sum: c9e92428ed22ae442726ab24feb1cf71
+SHA1: 727cc849cb39407f2d39e94920722b7a7126277a
+SHA256: 09759a6c50e5a04c508a0cbcd3c57eec1eb34d4d6c9652f0a94a929667f45f24
+Section: Tweaks
+Description: 为微信聊天界面标题添加头像
+Author: huami
+Name: WCNicknameAvatarStyle
+
