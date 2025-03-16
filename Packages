@@ -869,10 +869,10 @@ Maintainer: huami
 Installed-Size: 500
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: ./debs/com.huami.dyyy_2.1-3_iphoneos-arm64e.deb
-Size: 72022
-MD5sum: 3ab2329fb2118d87c7776d8e5a5beff5
-SHA1: d0e365c4fcdb96cb6fbe3c7a32a22be8f30fde40
-SHA256: f859c08dcebd6ccb3281784689c3440d899b6e58dc4c23bc2d4f64a5a2b40083
+Size: 72298
+MD5sum: c5232dc05b0ef8317a03d7de4d4d75b4
+SHA1: 5a5b09b7a06745f5773bc6e9da3e397abd5ac5dd
+SHA256: acc4601db5efca8539f17f64d78491ef260b737a4f733792e4620f224a0f121b
 Section: Tweaks
 Priority: optional
 Homepage: https://github.com/huami1314/DYYY
@@ -887,10 +887,10 @@ Maintainer: huami
 Installed-Size: 500
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: ./debs/com.huami.dyyy_2.1-3_iphoneos-arm64.deb
-Size: 72978
-MD5sum: 03d676a8a850403b3880727ce87d1438
-SHA1: 1a6ab9b069da410a8ac995e75c99edfced2e04f4
-SHA256: e5dda7b5468c815d374bc28f06823df2005b62f71297cea2f41b3681f59f7f23
+Size: 72602
+MD5sum: 79a123b265eaf7a5ff66f58fb86c798d
+SHA1: 4926f38013d99bbeba08e471586229e49fdd005c
+SHA256: 99bfe71796b4e68e6e42d4b81336c5ac46506ae9faef787dbe56d5003825cad6
 Section: Tweaks
 Priority: optional
 Homepage: https://github.com/huami1314/DYYY
@@ -905,10 +905,10 @@ Maintainer: huami
 Installed-Size: 500
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: ./debs/com.huami.dyyy_2.1-3_iphoneos-arm.deb
-Size: 71894
-MD5sum: a0270193814d5ef1c07db823cc0fe373
-SHA1: c145c6643e7cb0c408f03b8f1c1aba902b03433c
-SHA256: f07860adc9941b45addf21f56cf021cc434acca085640e79e70e7f5fb49113be
+Size: 72188
+MD5sum: 88cfc16173436400f9a880f27a58d0e1
+SHA1: d8b03fc5e2b1c4ec4a1fccb2e8d1c16a67adbc3c
+SHA256: 94470f4428307be7fb4180ea747478fed1f3ec5051f619db0b433e7824554148
 Section: Tweaks
 Priority: optional
 Homepage: https://github.com/huami1314/DYYY
